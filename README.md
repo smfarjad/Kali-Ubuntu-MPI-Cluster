@@ -23,4 +23,4 @@ $ mpicc hello_MPI.c -o hello_MPI
 
 ## Tutorial
 
-The relevant tutorial I wrote can be accessed at: https://smfarjad.github.io/Tutorial-on-Deploying-Kali-Ubuntu-MPI-Cluster/
+The relevant tutorial I wrote can be accessed at: [https://smfarjad.github.io/Tutorial-on-Deploying-Kali-Ubuntu-MPI-Cluster/](https://smfarjad.github.io/blog/2020/Tutorial-on-Deploying-Kali-Ubuntu-MPI-Cluster/)
